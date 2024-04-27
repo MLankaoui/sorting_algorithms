@@ -1,4 +1,2 @@
-Fatima
-# sorting_algorithms.
-# sorting_algorithms
-.main
+# sorting_algorithms .
+alx project DSA
