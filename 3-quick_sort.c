@@ -43,7 +43,7 @@ int lomuto_partition(int *array, int min, int max, size_t size)
 
 	if (i + 1 != max)
 	{
-		swap(&array[i + 1], &array[max]);
+		sww(&array[i + 1], &array[max]);
 		print_array(array, size);
 	}
 
